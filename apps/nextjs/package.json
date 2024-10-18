@@ -17,7 +17,7 @@
     "@acme/db": "^0.1.0",
     "@acme/stripe": "^0.1.0",
     "@acme/ui": "^0.1.0",
-    "@clerk/nextjs": "^4.23.2",
+    "@clerk/nextjs": "^4.31.6",
     "@dinero.js/currencies": "2.0.0-alpha.14",
     "@hookform/resolvers": "^3.2.0",
     "@next/mdx": "13.4.16",
